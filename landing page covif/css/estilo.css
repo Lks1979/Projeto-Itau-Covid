@@ -59,6 +59,22 @@ p{
 	margin-bottom: 5px;
 }
 /*Fim Conteudo 1*/
+/*Áudios*/
+.audios{
+	padding: 5px;
+	margin-top: 20px;
+	background: #daeafa9d;
+}
+.audio1, .audio2{
+	margin-top: 25px;
+}
+.txt-audio{
+	font-size: 1.4em;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	color: #0c345f;
+	margin-bottom: 5px;
+}
+/*Áudios*/
 
 /*Rodape*/
 #container-rodape {
