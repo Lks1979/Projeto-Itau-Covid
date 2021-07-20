@@ -14,34 +14,17 @@
     margin-bottom: 10px;
 }
 
-
-.contact1{
+/*Conteudo sobre*/
+.contact1, .contact3, .contact5{
     display: flex;
     background: rgb(247, 240, 230);  
     padding: 5px;  
     font-size: 1.4em;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}.contact2{
+}
+.contact2, .contact4{
     display: flex;
     background: rgb(253, 250, 244);  
-    padding: 5px;  
-    font-size: 1.4em;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}.contact3{
-    display: flex;
-    background:  rgb(247, 240, 230);  
-    padding: 5px;  
-    font-size: 1.4em;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}.contact4{
-    display: flex;
-    background: rgb(250, 248, 246);  
-    padding: 5px;  
-    font-size: 1.4em;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}.contact5{
-    display: flex;
-    background:  rgb(247, 240, 230);  
     padding: 5px;  
     font-size: 1.4em;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -63,3 +46,4 @@
     font-size: 0.7em;
    
 }
+/*Fim Conteudo sobre*/
