@@ -37,13 +37,15 @@
 }
 .btn-linkedin{
     margin-top: 10px;
-    margin-bottom: 5px;
-   
+    margin-bottom: 5px;   
 }
 .btn-linkedin a{    
     background: rgb(193, 193, 248);
     color: rgb(17, 5, 80);
-    font-size: 0.7em;
-   
+    font-size: 0.7em;   
+}
+.btn-linkedin a:hover{
+    background: rgb(10, 10, 131);
+    color: aliceblue;
 }
 /*Fim Conteudo sobre*/
